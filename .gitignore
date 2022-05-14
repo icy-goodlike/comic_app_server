@@ -1,0 +1,4 @@
+# 忽略任何目录下node_modules文件夹
+node_modules/
+# 忽略任何目录下build文件夹
+build/
